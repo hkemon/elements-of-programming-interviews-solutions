@@ -1,3 +1,5 @@
 # Chapter 6: Arrays
 
-- [ ] 6.0 EvenOdd
+- [x] 6.0 EvenOdd
+- [x] 6.1 DutchNationalFlag
+  - [ ] Variants
