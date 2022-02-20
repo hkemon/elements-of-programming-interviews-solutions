@@ -1,3 +1,3 @@
-# Chapter 5: Primitives
+# Chapter 6: Arrays
 
-- [ ] 5.1 ComputeParity
+- [ ] 6.0 EvenOdd
