@@ -1,4 +1,4 @@
-package arrays;
+package com.emon.epi.arrays;
 
 public class EvenOdd {
     public void evenOdd(int[] arr) {

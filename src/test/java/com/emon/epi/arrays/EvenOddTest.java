@@ -1,9 +1,14 @@
-package arrays;
+package com.emon.epi.arrays;
 
-import org.junit.jupiter.api.Assertions;
+import com.emon.epi.TimingExtension;
+
+import static org.junit.jupiter.api.Assertions.*;
+
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.extension.ExtendWith;
 
+@ExtendWith(TimingExtension.class)
 public class EvenOddTest {
     private static EvenOdd evenOdd;
 
@@ -16,6 +21,6 @@ public class EvenOddTest {
     public void evenOddTest() {
         int[] arr = new int[]{10, 7, 21, 90, 85, 35, 65, 15, 21};
         evenOdd.evenOdd(arr);
-        Assertions.assertEquals(arr[1], 90);
+        assertEquals(arr[1], 90);
     }
 }
