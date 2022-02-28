@@ -6,5 +6,5 @@
   - [ ] Variant 2
   - [ ] Variant 3
   - [ ] Variant 4
-- [ ] 6.2 IncrementArbitraryPrecisionInteger
+- [x] 6.2 IncrementArbitraryPrecisionInteger
   - [ ] Variant 1
